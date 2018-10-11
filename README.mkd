@@ -6,6 +6,9 @@ Normally, this works fine.
 
 But if you use a gaming mouse (like [Razer](http://www.razerzone.com/)) then you probably don't want the acceleration.  It can cause things to become jumpy or otherwise misbehave.
 
+
+**peterhass note: I changed the code so that you can reset your mouse acceleration to your previous value. Nothing fancy but it does the job.**
+
 ## Origin
 
 This is originally code found on http://forums3.armagetronad.net/viewtopic.php?p=196564#p196564
